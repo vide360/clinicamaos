@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_FCCD54D6_E445_2EFE_41C8_F35A227C5101.source = https://api.whatsapp.com/send?phone=5583998022000
+LinkBehaviour_F1F44743_E45C_EBD5_41C8_132837B37769.source = https://api.whatsapp.com/send?phone=5583998022000
+LinkBehaviour_F2B2D8C2_E45D_E6D6_41E9_13216821FF61.source = https://www.google.com/maps/place/Cl%C3%ADnica+M%C3%A3os/@-7.119846,-34.8465563,17z/data=!3m1!4b1!4m6!3m5!1s0x7ace7fb6372c365:0xcbc437391e1db878!8m2!3d-7.119846!4d-34.8439814!16s%2Fg%2F11bbrj_2n4?entry=ttu
+LinkBehaviour_FCCD24D4_E445_2EF2_41EB_863C95DFC621.source = https://www.google.com/maps/place/Cl%C3%ADnica+M%C3%A3os/@-7.119846,-34.8465563,17z/data=!3m1!4b1!4m6!3m5!1s0x7ace7fb6372c365:0xcbc437391e1db878!8m2!3d-7.119846!4d-34.8439814!16s%2Fg%2F11bbrj_2n4?entry=ttu
+LinkBehaviour_FCCD84D3_E445_2EF6_41BF_5D9F81874D13.source = https://www.instagram.com/clinicamaos/
+LinkBehaviour_F27F0B39_E45B_3BB5_41BB_844C4AA3D74D.source = https://www.instagram.com/clinicamaos/
+
+## Media
+
+### Audio
+audiores_F3652752_E47C_EBF6_41CD_1CE0AD09917A.mp3Url = media/audio_F27AB0F4_E44D_66B2_41B1_989774612AD6_pt.mp3
+
+### Title
+panorama_F2370967_E3DD_67DE_41B1_2393572D338A.label = 03
+panorama_E93E16D6_E3FD_6AFE_41E5_A7D4C463206B.label = Fachada
+panorama_E93F91CA_E3FD_26D4_41E5_32E4AED97F25.label = Fisioterapia
+panorama_E93E7678_E3FD_EDB2_41D2_4F3F0753AC26.label = Hall
+panorama_E93E5A56_E3FD_25FE_41D7_72F2BCE97590.label = Recepção
+panorama_E93ECD4B_E3FC_DFD6_41E4_E4F28F0E15F1.label = Sala André
+panorama_E93CF163_E3FF_27D5_41E7_95F637CB344C.label = Sala Sasha
+panorama_E9002F30_E3FB_5BB3_41D1_4C6B6DAC0F95.label = brinquedos
+panorama_E93E7563_E3FB_2FD5_41CD_59B86BB73C06.label = corredor
+panorama_E93E1418_E3FC_ED73_41E4_64D21550BA40.label = corredor2
+panorama_E93E4BE2_E3FD_3AD6_4198_097F397A32B5.label = curativos
+
+## Skin
+
+### Image
+Image_F18D5B1B_E445_3B76_41EC_0A94E6047337_mobile.url = skin/Image_F18D5B1B_E445_3B76_41EC_0A94E6047337_mobile_pt.png
+Image_F18D5B1B_E445_3B76_41EC_0A94E6047337.url = skin/Image_F18D5B1B_E445_3B76_41EC_0A94E6047337_pt.png
+Image_F1ADD18B_E445_2756_41DE_41C82C77F2F5_mobile.url = skin/Image_F1ADD18B_E445_2756_41DE_41C82C77F2F5_mobile_pt.png
+Image_F1ADD18B_E445_2756_41DE_41C82C77F2F5.url = skin/Image_F1ADD18B_E445_2756_41DE_41C82C77F2F5_pt.png
+Image_F1D767FF_E445_2AAD_41DC_36DFED7183E6_mobile.url = skin/Image_F1D767FF_E445_2AAD_41DC_36DFED7183E6_mobile_pt.png
+Image_F1D767FF_E445_2AAD_41DC_36DFED7183E6.url = skin/Image_F1D767FF_E445_2AAD_41DC_36DFED7183E6_pt.png
+Image_F31907A6_E447_2B5E_41E7_4712757F1B5C_mobile.url = skin/Image_F31907A6_E447_2B5E_41E7_4712757F1B5C_mobile_pt.png
+Image_F31907A6_E447_2B5E_41E7_4712757F1B5C.url = skin/Image_F31907A6_E447_2B5E_41E7_4712757F1B5C_pt.png
+Image_F33F7047_E44B_25DE_41EB_30B9A4EB6E95_mobile.url = skin/Image_F33F7047_E44B_25DE_41EB_30B9A4EB6E95_mobile_pt.jpeg
+Image_F33F7047_E44B_25DE_41EB_30B9A4EB6E95.url = skin/Image_F33F7047_E44B_25DE_41EB_30B9A4EB6E95_pt.jpeg
+Image_F70D1098_E445_E573_41E7_85680914A1FF_mobile.url = skin/Image_F70D1098_E445_E573_41E7_85680914A1FF_mobile_pt.png
+Image_F70D1098_E445_E573_41E7_85680914A1FF.url = skin/Image_F70D1098_E445_E573_41E7_85680914A1FF_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Clínica Mãos
